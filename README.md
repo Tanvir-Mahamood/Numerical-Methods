@@ -4,7 +4,7 @@ This repository contains [implementations of various numerical methods](https://
 # Covered Methods
 The repository includes implementations for the following numerical methods:
 
-1. [Integration}(https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Numerical%20Method/Integration)
+1. [Integration](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Numerical%20Method/Integration)
    - Trapezoidal Rule
    - Simpson's 1/3 Rule
    - Simpson's 3/8 Rule
