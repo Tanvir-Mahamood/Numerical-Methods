@@ -26,3 +26,6 @@ The repository includes implementations for the following numerical methods:
    - Lagrange Interpolation
 5. [Least Square Curve Fitting](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Numerical%20Method/LeastSqrt)
    - Fitting different curves with error calculations
+
+## 📄 License
+This project is open source and available under the [Apache 2.0 License](LICENSE).
